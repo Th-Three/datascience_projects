@@ -7,4 +7,6 @@ The technique used in this project are:
   4. pivot chart
   5. dashboard in Excel
 
+link to see in wordpress: https://threethipthikoon.wordpress.com/2024/08/29/project-sales-dashboard-with-sql-and-excel/
+
 ps. There is the SQLite project with the same dataset, which focusing on queries.
