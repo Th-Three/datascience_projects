@@ -7,12 +7,13 @@ My data science and analytics projects
 3. R programming - Pao Ying Chub
 4. Looker G4A Dashboard
 5. Linear regression using R caret
+6. Pandas: Sales analysis
 
 ## Contact Me
 reach out to me at thanaphop30@gmail.com
 wordpress portfolio link:
 
 ## Image
-![Deadpool](https://images.squarespace-cdn.com/content/v1/583dcb5f1b631b930031f02c/1534003532667-R2H4O39PVWN5Q55LFYYD/deadpool-desktop-3840x2160.jpg)
+![Deadpool](https://threethipthikoon.wordpress.com/wp-content/uploads/2024/08/277515640_5234429026596568_1322563582894450940_n.jpg)
 
 
