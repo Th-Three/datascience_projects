@@ -1,4 +1,4 @@
-# Data Science Bootcamp 10
+# Data Science projects
 My data science and analytics projects
 
 ## My personal projects
