@@ -9,10 +9,10 @@ My data science and analytics projects
 5. Pandas: Sales analysis
 
 ## Contact Me
-reach out to me at thanaphop30@gmail.com
-wordpress portfolio link:
+Reach out to me at thanaphop30@gmail.com\
+Wordpress portfolio link: https://threethipthikoon.wordpress.com/category/portfolio/
 
 ## Image
-![Deadpool](https://threethipthikoon.wordpress.com/wp-content/uploads/2024/08/277515640_5234429026596568_1322563582894450940_n.jpg)
+![834R](https://threethipthikoon.wordpress.com/wp-content/uploads/2024/08/277515640_5234429026596568_1322563582894450940_n.jpg)
 
 
