@@ -1,0 +1,24 @@
+id,name,types,sprites_url
+151,mew,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png
+251,celebi,psychic grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/251.png
+385,jirachi,steel psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/385.png
+386,deoxys-normal,psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/386.png
+489,phione,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/489.png
+490,manaphy,water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/490.png
+491,darkrai,dark,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/491.png
+492,shaymin-land,grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/492.png
+493,arceus-normal,normal,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/493.png
+494,victini,psychic fire,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/494.png
+647,keldeo-ordinary,water fighting,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/647.png
+648,meloetta-aria,normal psychic,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/648.png
+649,genesect,bug steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/649.png
+719,diancie,rock fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/719.png
+720,hoopa,psychic ghost,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/720.png
+721,volcanion,fire water,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/721.png
+801,magearna,steel fairy,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/801.png
+802,marshadow,fighting ghost,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/802.png
+807,zeraora,electric,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/807.png
+808,meltan,steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/808.png
+809,melmetal,steel,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/809.png
+893,zarude,dark grass,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/893.png
+1025,pecharunt,poison ghost,https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1025.png
