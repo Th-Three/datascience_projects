@@ -3,9 +3,9 @@ My data science and analytics projects
 
 ## My personal projects
 1. SQL and Excel: Sales Dashboard
-2. R programming - Pao Ying Chub
-3. Looker G4A Dashboard
-4. Linear regression using R caret
+2. R programming - Data Transformation and Data Visualization
+3. Python - OOP and API
+4. Looker G4A Dashboard
 5. Pandas: Sales analysis
 
 ## Contact Me
